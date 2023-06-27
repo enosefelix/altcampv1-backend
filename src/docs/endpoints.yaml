@@ -1864,9 +1864,9 @@ components:
         - password
       type: object
       properties:
-        firstname:
+        firstName:
           type: string
-        lastname:
+        lastName:
           type: string
         email:
           type: string
@@ -1881,8 +1881,8 @@ components:
         altSchoolId:
           type: string
       example:
-        firstname: Johan
-        lastname: Dolapo
+        firstName: Johan
+        lastName: Dolapo
         email: johnny.dope@mail.com
         password: Pkgj748_h!@
         track: Product Design
